@@ -124,7 +124,7 @@ Behavior:
 
 ![Screenshot 1](screenshots/new/screenshot-1.png)
 
-Caption: One supervisor process managing two live containers.
+Caption: The `ps` command showing two live containers under supervisor tracking.
 
 ### Screenshot 2: Metadata Tracking
 
@@ -270,7 +270,7 @@ Linux CFS tries to balance fairness with responsiveness. In the CPU-vs-CPU exper
 
 ## Source Files
 
-Use these files for submission screenshots:
+Use these files for submission:
 
 1. [`README.md`](/home/sukruth/OS-Jackfruit/README.md)
 2. [`boilerplate/engine.c`](/home/sukruth/OS-Jackfruit/boilerplate/engine.c)
